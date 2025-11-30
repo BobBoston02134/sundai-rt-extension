@@ -1,4 +1,5 @@
 SETUP
+
 = = = 
 Download all files into any single directory.
 
@@ -10,6 +11,7 @@ Click on Load Unpacked, then select the directory where you saved the files
 
 
 USAGE
+
 = = = 
 Highlight the name of a movie, then right click on it.
 

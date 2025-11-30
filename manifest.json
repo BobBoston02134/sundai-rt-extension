@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Rotten Tomatoes Lookup",
+  "version": "1.0",
+  "description": "Highlight a movie name, right-click to see RT scores",
+  "permissions": ["contextMenus", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
